@@ -1,1 +1,0 @@
-# veri_bilimi_odev1
